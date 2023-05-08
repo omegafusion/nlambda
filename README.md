@@ -8,7 +8,7 @@ For more information, visit [NLambda website](http://www.mimuw.edu.pl/~szynwelsk
 
 1. There are two ways to get a source code:
   * download and unpack the package file [http://www.mimuw.edu.pl/~szynwelski/nlambda/nlambda-1.1.tar.gz](http://www.mimuw.edu.pl/~szynwelski/nlambda/nlambda-1.1.tar.gz),
-  * check out the source code from git:
+  * check out the source code from this repository, or from:
 
     `$ git clone https://github.com/szynwelski/nlambda.git`
 
