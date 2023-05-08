@@ -16,9 +16,9 @@ For more information, visit [NLambda website](http://www.mimuw.edu.pl/~szynwelsk
 
 3. Move into nlambda directory and perform the following commands:
    ```
-   cabal v2-configure -fTOTAL_ORDER
-   cabal v2-build
-   cabal v2-install
+   cabal configure -fTOTAL_ORDER
+   cabal build
+   cabal install --lib
    ```
    The flag `TOTAL_ORDER` is required to install the package with ordered atoms (otherwise equality atoms will be used).
    
